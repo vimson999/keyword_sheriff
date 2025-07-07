@@ -1,7 +1,7 @@
 export default {
-  title: '短视频数据侦探',
+  title: '短视频探长',
   content: '这是中文内容{{num}}',
-  banner_title: '短视频数据侦探',
+  banner_title: '短视频探长',
   banner_subtitle: '基本信息/文案/作者信息/评论，支持dy,xhs,bili,ks',
   form_title: '参数配置',
   intent_select: '请选择获取的数据',
